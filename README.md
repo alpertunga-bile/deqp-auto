@@ -5,6 +5,7 @@ Required: <br/>
 - [x] Git
 - [x] CMake
 - [x] Generator which is compatible with CMake
+- [ ] Git and CMake have to be in PATH variable
 
 ## Full auto
 
@@ -37,7 +38,3 @@ SOURCE_FILE   : Write CSV file to given location <br/>
 ## Get Results From CSV
 
 ```python deqp-auto.py --get_results --source_file [SOURCE_FILE]``` <br/>
-
-
-
-
