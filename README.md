@@ -1,6 +1,10 @@
 # deqp-auto
 
-Download, Build and Use dEQP's [Vulkan CTS](https://github.com/KhronosGroup/VK-GL-CTS) on Windows
+Download, Build and Use dEQP's [Vulkan CTS](https://github.com/KhronosGroup/VK-GL-CTS) on Windows <br/>
+Required: <br/>
+- [x] Git
+- [x] CMake
+- [x] Generator which is compatible with CMake
 
 ## Full auto
 
